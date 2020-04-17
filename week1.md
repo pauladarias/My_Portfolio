@@ -10,19 +10,20 @@ _This is a weekly journal to keep a track of the work I do to achieve the goals.
 
 * Test-drive a simple program using objects and methods
     - [The TDD process](https://github.com/makersacademy/skills-workshops/blob/master/week-1/TDD_process.md)
-    - [Roman Numbers](https://github.com/)
+    - [Roman Numbers](https://github.com/pauladarias/My_Portfolio/tree/master/challenges/roman_numbers)
 * Pair using the driver-navigator style
-    - [Boris Bikes](https://github.com/mattTea/Portfolio/blob/master/projects/boris_bikes.md)
+    - [Boris Bikes](https://github.com/pauladarias/My_Portfolio/tree/master/challenges/boris_bikes)
 * Follow an effective debugging process
-    - [Debugging workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1
+    - [Debugging workshop](https://github.com/makersacademy/skills-workshops/tree/master/week-1/debugging_1)
 * Describe some basic OO principles like encapsulation, SRP
-    - [Airport](https://github.com/)
-    - [Boris Bikes](https://github.com/)
+    - [Boris Bikes](https://github.com/pauladarias/My_Portfolio/tree/master/challenges/boris_bikes)
     - [Airoplane](https://github.com/)
 
 ------
 
 ## What I've learnt this week
+
+* Each afternoon I worked through the Boris Bike Challenge for 3 hours with different paired partners, and follow best practices to maintain collaborative repos. 
 
 Wednesday 15th April
 
@@ -33,6 +34,9 @@ Wednesday 15th April
    * Encapsulation
      -[OOC](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
    * SRP: "A class should have only a single responsibility."
+
+- **Attended to the Process Workshop**
+   * Worked on [Ten minute walk](https://github.com/makersacademy/skills-workshops/tree/master/process_review/exercises/10_minute_walk) challenge as an introduction to TDD (30 mins while my partner observed  to give feedback)
    
 
 Thursday 16th April
@@ -40,6 +44,8 @@ Thursday 16th April
 - **Processes** 
 
    * Debugging >> Problem breakdown >> TDD
+
+
 
    
 Friday 17th April
@@ -49,10 +55,10 @@ Friday 17th April
    - Test driving and using a process
    
 ### Things to remember:
-* When debuggin:
+* When debugging:
      - Mantra: "Tighten the loop, get visibility"
 
-* When TDD
+* When TDD:
      - TDD cycle: RED (your test should always fail)- GREEN (fix it and make it pass)- REFACTOR(improve the code quality)
      - Follow steps:
      - 1. README-md -Question-Object|Message - INPUT|OUTPUT
