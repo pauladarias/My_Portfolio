@@ -23,7 +23,7 @@ _This is a weekly journal to keep a track of the work I do to achieve the goals.
 
 ## What I've learnt this week
 
-* Each afternoon I worked through the Boris Bike Challenge for 3 hours with different paired partners, and follow best practices to maintain collaborative repos. 
+* Each afternoon I worked through the Boris Bike Challenge for 3 hours with different paired partners, and followed best practices to maintain collaborative repos. 
 
 Wednesday 15th April
 
@@ -66,6 +66,15 @@ Friday 17th April
      - 3. Create .rb file in /lib and run
      - 4. And so on: add test, run rspec, add code, run rspec. 
      - 5. Commit when the test passes. Then refactor and commit again.
+
+### After the weeked Challenge. What could you have done better?
+* Breaking down user stories using INPUT and OUTPUT
+* Time management is something I def need to focus on
+* Commit more often 
+* Should have had my own readme file in my repo
+* Didnt feature test as much as should the further into the code I got 
+
+
    
    
 
