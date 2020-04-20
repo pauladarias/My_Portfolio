@@ -9,3 +9,5 @@ number | convert
 
 INPUT | OUTPUT
 "0"   |  " "
+"4"   |   4
+"4,2" |   6
