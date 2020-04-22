@@ -1,4 +1,4 @@
-# Week 1 
+# Week 2
 
 _This is a weekly journal to keep a track of the work I do to achieve the goals._
 
@@ -11,6 +11,7 @@ _This is a weekly journal to keep a track of the work I do to achieve the goals.
 
 * Use all of week 1's skills (don't underestimate the importance of this)
     - [String Calculator](https://github.com)
+    - [Oystercard](https://github.com)
 * Break one class into two classes that work together, while maintaining test coverage
 * Unit test classes in isolation using mocking
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
@@ -25,9 +26,9 @@ _This is a weekly journal to keep a track of the work I do to achieve the goals.
 
 Monday 20th April
 
-- **In the morning in focussed on code reviews. We went through students' code (Airport challenge) giving each other's feedback.**
+- **In the morning we focussed on code reviews. We went through students' code (Airport challenge) giving each other's feedback.**
     - [Code Review](https://github.com/makersacademy/skills-workshops/tree/master/week-2/code_review)
-    - [My code Review]()
+    - [My code Review](https://github.com/pauladarias/My_Portfolio/blob/master/docs/Code_review.md)
 - **I also recap TDD going through different challenges. String Calculator, finished Roman Numerals.**
 
 - **Blooms Taxonomy**
@@ -37,6 +38,20 @@ Monday 20th April
     - Analyze
     - Evaluate
     - Create
+
+- **[Oystercard Challenge](https://github.com)**
+    - RVM: Command Line Tool that allows you to install gems.
+    - RUBY GEMS: file while libraries enable to run the code.
+    - BUNDLER: makes sure Ruby apps run same code in everu machine. Manage gems
+    - STRUCTURE OF GEMS
+
+Tuesday 21th April
+
+- **In the morning we 
+
+
+
+
 
 ## Things to clarify
 * SRP
