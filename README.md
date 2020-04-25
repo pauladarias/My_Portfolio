@@ -5,7 +5,7 @@ This is my learning journey at Makers Academy.
 
 It includes examples of my work, challenges completed, and the processes I have learnt and developed while working towards the following goals.
 
-Click through to any of the following links for more detail.
+Click through the weekly goals links for more detail.
 
 ### My Goals
 
@@ -32,8 +32,8 @@ Click through to any of the following links for more detail.
 
 ### Weekly Goals
 
-Week 1
-Week 2
+[Week 1](https://github.com/pauladarias/My_Portfolio/blob/master/week1.md)
+[Week 2](https://github.com/pauladarias/My_Portfolio/blob/master/week2.md)
 Week 3
 Week 4
 Week 5
