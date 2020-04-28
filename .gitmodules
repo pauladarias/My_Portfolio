@@ -1,3 +1,6 @@
 [submodule "oystercard-2"]
 	path = oystercard-2
 	url = https://github.com/pauladarias/oystercard-2
+[submodule "sinatra_app"]
+	path = sinatra_app
+	url = https://github.com/pauladarias/sinatra_app
