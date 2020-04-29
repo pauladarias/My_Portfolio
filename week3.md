@@ -1,4 +1,4 @@
-# Week 2
+# Week 3
 
 
 *This is a weekly journal to keep a track of the work I do to achieve the goals.*
@@ -36,11 +36,13 @@ We’ll learn some skills:
 - How to architect and how to test applications that have user interaction and visual output.
 - How to trace data between the browser and server.
 
+---
+
 
 ## What I’ve learnt this week
 * Each afternoon I worked through the [Battle](https://github.com/makersacademy/course/tree/master/intro_to_the_web) for 3 hours with different paired partners, and followed best practices to maintain collaborative repos.
 
----
+
 
 ### Monday 27th April
 
@@ -57,10 +59,27 @@ We’ll learn some skills:
 
 
 ---
-Tuesday 28th April
+### Tuesday 28th April
 
-* In the morning we focussed on [] workshop:
-   * uno 
+* In the morning we focussed on [Modelling the request/response cycle](https://github.com/makersacademy/skills-workshops/tree/master/week-3/process_modelling) workshop:
+
+   * Process to model exercise : Homepage - Cat page - Mailing list page 
+       * The HTTP requests and the data they carry.
+       * The HTTP responses and the data they carry. (Resources for this at the bottom of this readme.)
+       * The movement of requests between client and server.
+       * Mouse clicks.
+       * What is displayed in the browser.
+    * Refer to [Diagram on https://makers-cats.herokuapp.com/] image The order that things happen in.
+
+
+* MVC pattern and Restful APIs [Week3-Notes]() 
+
+
+### Wednesday 29th April
+
+- In the morning: 
+
+
 
 
 
