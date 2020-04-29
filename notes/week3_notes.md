@@ -75,6 +75,9 @@ Some web frameworks tha use MVC concepts:
 
 ![MVC pattern](https://github.com/pauladarias/My_Portfolio/blob/master/images/week-3/MVC.jpg)
 
+![MVC pattern - Information flow](https://github.com/pauladarias/My_Portfolio/blob/master/images/week-3/MVC%20-%20Information%20flow.png)
+
+![MVC pattern - Example on JS](https://github.com/pauladarias/My_Portfolio/blob/master/images/week-3/MVC%20example%20code.png)
 
 ---
 
