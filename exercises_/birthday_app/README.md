@@ -32,3 +32,6 @@ Before I start I need to recap on how to organise my files and folders:
  |
  |______ lib
            |___ birthday.rb
+
+Step1:
+Testing homepage

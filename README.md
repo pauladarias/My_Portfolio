@@ -34,7 +34,7 @@ Click through the weekly goals links for more detail.
 
 [Week 1](https://github.com/pauladarias/My_Portfolio/blob/master/week1.md)
 [Week 2](https://github.com/pauladarias/My_Portfolio/blob/master/week2.md)
-Week 3
+[Week 3](https://github.com/pauladarias/My_Portfolio/blob/master/week3.md)
 Week 4
 Week 5
 Week 6
