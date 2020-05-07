@@ -75,6 +75,18 @@ Using .class methods allow us to call the a new object (calling that class metho
 
 - I spent most of my morning going through previous exercises (the Birthday app and the Battle) to familiarize with steps and logic implementation. Paired with Ed to go through the Birthday Challenge, which helped me understand the importance of a clear objective when approcahing the logic. 
 
+### Wednesday 6th May
+
+- Morning, Workshop: Database Domain Modelling [CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards) Refer to [Week 4 notes]()
+
+- The other half od¡f the morning I focussed on understanding the basics of how databases work (e.g. tables, SQL, basic relationships) Refer to [Week 4 notes]()
+
+
+- Things to remember: 
+
+    - The Escalation Process - [Steps](https://github.com/makersacademy/course/blob/master/pills/escalation_process.md)
+
+
 
 ### Challenges
 
