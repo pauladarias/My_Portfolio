@@ -4,3 +4,9 @@
 [submodule "sinatra_app"]
 	path = sinatra_app
 	url = https://github.com/pauladarias/sinatra_app
+[submodule "challenges/challenges/RPS"]
+	path = challenges/challenges/RPS
+	url = https://github.com/pauladarias/RPS
+[submodule "exercises_/JavaTicTacTo"]
+	path = exercises_/JavaTicTacTo
+	url = https://github.com/pauladarias/My_Portfolio

@@ -86,7 +86,7 @@ Using .class methods allow us to call the a new object (calling that class metho
 
     - The Escalation Process - [Steps](https://github.com/makersacademy/course/blob/master/pills/escalation_process.md)
 
-
+---
 
 ### Challenges
 
